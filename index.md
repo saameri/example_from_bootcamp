@@ -1,6 +1,7 @@
 Trip UK
 ================
 
+The world is a big place and geographically has many wonders natuarally and man-made 
 my mountains trip in UK
 
 scotland has higher monutaons than UK
